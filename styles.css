@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #EEE4AB;
+}
+
+h1 {
+    color: #68A7AD;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+}
+
+h3 {
+    color: #68A7AD;
+}
+
+hr {
+    border-color: #E5CB9F;
+    border-style: dotted none none;
+    border-width: 0.6rem;
+    width: 4rem;
+    margin: 0;
+}
+
+img {
+    border-color: #99C4C8;
+    border-radius:50%;
+    border-style: dotted;
+    border-width: 0.25rem;
+    height: 14rem;
+}
